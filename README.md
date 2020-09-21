@@ -24,7 +24,7 @@ A curated list of research papers in Semi or Weak Person Re-ID (REC). Link to th
 ### 2020
 
 
-- **Weakly supervised discriminative feature learning with state information for person identification**. *Hong-Xing Yu and Wei-Shi Zheng*. CVPR, 2020. [[paper]](https://arxiv.org/pdf/2002.11939.pdf）[[code]](https://github.com/KovenYu/state-information)
+- **Weakly supervised discriminative feature learning with state information for person identification**. *Hong-Xing Yu and Wei-Shi Zheng*. CVPR, 2020. [[paper]](https://arxiv.org/pdf/2002.11939.pdf) [[code]](https://github.com/KovenYu/state-information)
 
 ### 2019
 
